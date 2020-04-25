@@ -1,4 +1,4 @@
-greeting.message: Hello fromo config repo
+greeting.message: Hello fromo config repo updated
 app:
   name: "My App fromo config repo"
   desc: "Welcome to ${app.name}"
