@@ -1,0 +1,11 @@
+greeting.message: Hello
+app:
+  name: "My App fromo config repo"
+  desc: "Welcome to ${app.name}"
+
+my.list.values: One,Two,Three,Four
+
+db:
+  connection: "{connectionString: 'http://----/config-repo', username: 'uname', password: 'pass'}"
+  host: 127.0.0.1
+  port: 5432
